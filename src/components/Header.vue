@@ -67,6 +67,16 @@ header {
             padding: 0 10px;
             font-size: 13px;
         }
+        a {
+            text-decoration: none;
+            font-weight: bold;
+            color: #535759;
+        }
+        a:hover{
+            color: #0282f9;
+            padding-bottom: 63px;
+            border-bottom: 5px solid #0282f9;
+        }
     }
 }
 </style>
